@@ -1,10 +1,12 @@
 {"run_list":
   [
-    "oh-my-zsh-solo",
+    "git",
     "vim",
+    "oh-my-zsh-solo",
     "nginx",
     "mysql",
     "memcached",
-    "redis"
+    "redis",
+    "nodejs"
   ]
 }
