@@ -1,6 +1,6 @@
 {"run_list":
   [
-    "zsh",
+    "oh-my-zsh-solo",
     "vim",
     "nginx",
     "mysql",
