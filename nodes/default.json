@@ -2,7 +2,9 @@
   [
     "git",
     "vim",
+    "zsh",
     "oh-my-zsh-solo",
+    "dotfiles",
     "nginx",
     "mysql",
     "memcached",
