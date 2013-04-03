@@ -1,6 +1,7 @@
 {"run_list":
   [
     "nginx",
-    "mysql"
+    "mysql",
+    "memcached"
   ]
 }
