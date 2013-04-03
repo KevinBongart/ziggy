@@ -1,5 +1,6 @@
 {"run_list":
   [
+    "vim",
     "nginx",
     "mysql",
     "memcached",
