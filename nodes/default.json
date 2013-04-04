@@ -2,14 +2,14 @@
   [
     "git",
     "vim",
+    "rbenv",
     "zsh",
-    "oh-my-zsh-solo",
-    "dotfiles",
     "nginx",
     "mysql",
     "memcached",
     "redis",
     "nodejs",
-    "java"
+    "java",
+    "main"
   ]
 }
